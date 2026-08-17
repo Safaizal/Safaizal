@@ -1,7 +1,7 @@
 <hr>
 <!-- NAME -->
 <h1 align="center" style="margin-top: 30px;">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=true&width=540&lines=Hello,+This+is+Faizal+S+A+>__<&color=8892BF"  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=true&width=540&lines=Hello,+This+is+Faizal+S+A+>__<&color=00ff11"  />
 </h1>
 <!-- GITHUB STATS -->
 <div align="center">
@@ -22,7 +22,7 @@ Languages & Frameworks
 <!-- TOOLS -->
 <h3 align="center"><strong>Tools & OS</strong></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,windows,git,django,postgres,vim,neovim,vscode,flask" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,windows,git,django,postman,nodejs,postgres,vim,neovim,vscode" />
 </p>
 <p>
 
@@ -41,7 +41,7 @@ Languages & Frameworks
 <h3 align="center">Reach me through<h3>
 <div align="center" style="padding: 20px;">
 <a href="mailto:safaizalways.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"></a>&nbsp;
-<a href="https://medium.com/@safaizalways"><img src="https://img.icons8.com/?size=50&id=wYiGNIiB4OKj&format=png&color=000000"></a>&nbsp;
+<a href="https://medium.com/@safaizalways"><img src="https://img.icons8.com/?size=80&id=GlEHSV1RF10y&format=png&color=ffffff"></a>&nbsp;
 <a href="https://linkedin.com/in/faizal-s-a-661420202"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>&nbsp;
 </div>
 
